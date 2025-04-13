@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Abinaya Arangannan!
 
-<!--
-**AbinayaArangannan/AbinayaArangannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BCA Graduate | Passionate about Tech & Learning | learning Full Stack Developer | Interested in Java & Python**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack:
+- Languages: **Java**, **Python**, **HTML/CSS**
+- Database: **RDBMS (MySQL)**
+- Frameworks: **ASP.NET (Basics)**
+- Tools: Git, GitHub, Visual Studio
+
+---
+
+### 📌 Projects
+- Student Info System (Java)
+- Portfolio Website (HTML/CSS)
+- Simple Python Tasks
+
+---
+
+### 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/abinayaarangannan)
+- Email: abinayaarangannan@gmail.com
+
+---
+
+**“Learning never stops. I believe in small daily improvements!”**
