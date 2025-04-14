@@ -4,7 +4,7 @@
 
 ---
 
-### 💻 Tech Stack:
+###  Tech Stack:
 - Languages: **Java**, **Python**, **HTML/CSS**
 - Database: **RDBMS (MySQL)**
 - Frameworks: **ASP.NET (Basics)**
@@ -12,14 +12,14 @@
 
 ---
 
-### 📌 Projects
+###  Projects
 - Student Info System (Java)
 - Portfolio Website (HTML/CSS)
 - Simple Python Tasks
 
 ---
 
-### 📫 Connect with me:
+###  Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/abinayaarangannan)
 - Email: abinayaarangannan@gmail.com
 
