@@ -1,6 +1,6 @@
 # Hi there, I'm Abinaya Arangannan!
 
-**BCA Graduate | Passionate about Tech & Learning | learning Full Stack Developer | Interested in Java & Python**
+**BCA Graduate | Passionate about Tech & Learning | Future Full Stack Developer | Interested in Java & Python | Seeking opportunities in IT**
 
 ---
 
