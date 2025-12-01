@@ -5,7 +5,7 @@
 ---
 
 ###  Tech Stack:
-- Languages: **Java**, **Python**, **HTML/CSS**
+- Languages: **Java**,**HTML/CSS**
 - Database: **RDBMS (MySQL)**
 - Frameworks: **ASP.NET (Basics)**
 - Tools: Git, GitHub, Visual Studio
