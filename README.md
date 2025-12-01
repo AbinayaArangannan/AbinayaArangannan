@@ -15,7 +15,6 @@
 ###  Projects
 - Student Info System (Java)
 - Portfolio Website (HTML/CSS)
-- Simple Python Tasks
 
 ---
 
